@@ -1,0 +1,59 @@
+
+ 
+  
+
+
+
+
+
+@media (max-width: 1199.5px){
+  
+}
+
+
+
+@media (max-width: 991px){
+    .wrapper{
+        padding: 3.125rem;
+    }
+
+    main-btn {
+        font-size: 825rem;
+    }
+    /* h1{
+        font-size: 2.8125rem;
+        margin-bottom: .625rem;
+    } */
+    h2{
+        font-size: 1.875rem;
+    }
+    h3{
+        font-size: 1.5625rem;
+    }
+    h4{
+        font-size: 1.25rem;
+    }
+    h5{
+        font-size: 1.125rem;
+    }
+    
+    p{
+        font-size: .875rem;
+        line-height: 1.35rem;
+    }
+
+    .min-card{
+        position: absolute;
+        top:  350%;
+        margin: -63px;
+        
+       
+    }
+    .min-card-2{
+        position: absolute;
+        top:  380%;
+        margin: -73px;
+    }
+
+    
+}
